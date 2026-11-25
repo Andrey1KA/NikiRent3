@@ -1,0 +1,262 @@
+{
+  "chats": [
+    {
+      "name": "Отдел заботы",
+      "messages": [
+        {
+          "id": "care-22-01",
+          "date": "2026-11-22",
+          "time": "09:10",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Марина, подготовь сводку по жалобам за неделю и пришли до 15:00.",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-01"
+        },
+        {
+          "id": "care-22-02",
+          "date": "2026-11-22",
+          "time": "09:14",
+          "author": "Марина",
+          "role": "staff",
+          "text": "Приняла",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-02"
+        },
+        {
+          "id": "care-22-03",
+          "date": "2026-11-22",
+          "time": "09:40",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Игорь, гость в ЛП 10 написал, что нет горячей воды. Что уже сделали?",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-03"
+        },
+        {
+          "id": "care-22-04",
+          "date": "2026-11-22",
+          "time": "11:05",
+          "author": "Ольга",
+          "role": "staff",
+          "text": "Можно перенести заезд на Ленина 108 на завтра?",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-04"
+        },
+        {
+          "id": "care-22-05",
+          "date": "2026-11-22",
+          "time": "12:20",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Катя, выложи фото после уборки ВЛКСМ 56.",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-05"
+        },
+        {
+          "id": "care-22-06",
+          "date": "2026-11-22",
+          "time": "12:28",
+          "author": "Катя",
+          "role": "staff",
+          "text": "Готово, фото в альбоме, уборка в 12:10, замечаний нет.",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-06"
+        },
+        {
+          "id": "care-22-07",
+          "date": "2026-11-22",
+          "time": "16:02",
+          "author": "Катя",
+          "role": "staff",
+          "text": "Подскажите, по ЛП 20 гость просит ранний заезд — подтверждаем?",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-07"
+        },
+        {
+          "id": "care-22-08",
+          "date": "2026-11-22",
+          "time": "16:18",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Да, Катя, подтверждаем, ключи у охраны.",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-08"
+        },
+        {
+          "id": "care-22-09",
+          "date": "2026-11-22",
+          "time": "17:05",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Марина, пришли контакты клининга на завтра.",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-09"
+        },
+        {
+          "id": "care-22-10",
+          "date": "2026-11-22",
+          "time": "17:08",
+          "author": "Марина",
+          "role": "staff",
+          "text": "Ок, сделаю",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-22-10"
+        },
+        {
+          "id": "care-21-01",
+          "date": "2026-11-21",
+          "time": "10:00",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Ольга, сколько заездов завтра?",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-21-01"
+        },
+        {
+          "id": "care-21-02",
+          "date": "2026-11-21",
+          "time": "10:06",
+          "author": "Ольга",
+          "role": "staff",
+          "text": "Завтра 4 заезда: ЛП 10, ЛП 20, Ленина 108 и ВЛКСМ 56.",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-21-02"
+        },
+        {
+          "id": "care-21-03",
+          "date": "2026-11-21",
+          "time": "10:20",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Игорь, забери ключи у собственника Ленина 108 и отпишись.",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-21-03"
+        },
+        {
+          "id": "care-21-04",
+          "date": "2026-11-21",
+          "time": "11:00",
+          "author": "Игорь",
+          "role": "staff",
+          "text": "Ключи у меня, собственник передал в 10:50.",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-21-04"
+        },
+        {
+          "id": "care-21-05",
+          "date": "2026-11-21",
+          "time": "14:15",
+          "author": "Марина",
+          "role": "staff",
+          "text": "Нужно ли звонить гостю по ЛП 20, он не выходит на связь?",
+          "link": "https://max.ru/chat/otdel-zaboty?message=care-21-05"
+        }
+      ]
+    },
+    {
+      "name": "Горничные",
+      "messages": [
+        {
+          "id": "maid-22-01",
+          "date": "2026-11-22",
+          "time": "08:30",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Света, проверь мини-бар в ЛП 10 и напиши, чего не хватает.",
+          "link": "https://max.ru/chat/gornichnye?message=maid-22-01"
+        },
+        {
+          "id": "maid-22-02",
+          "date": "2026-11-22",
+          "time": "08:40",
+          "author": "Света",
+          "role": "staff",
+          "text": "В работе",
+          "link": "https://max.ru/chat/gornichnye?message=maid-22-02"
+        },
+        {
+          "id": "maid-22-03",
+          "date": "2026-11-22",
+          "time": "09:00",
+          "author": "Света",
+          "role": "staff",
+          "text": "По ВЛКСМ 56 гость оставил окно открытым, закрывать?",
+          "link": "https://max.ru/chat/gornichnye?message=maid-22-03"
+        },
+        {
+          "id": "maid-22-04",
+          "date": "2026-11-22",
+          "time": "09:10",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Да, закрой и напиши гостю.",
+          "link": "https://max.ru/chat/gornichnye?message=maid-22-04"
+        },
+        {
+          "id": "maid-22-05",
+          "date": "2026-11-22",
+          "time": "09:25",
+          "author": "Света",
+          "role": "staff",
+          "text": "Закрыла окно, гостю написала.",
+          "link": "https://max.ru/chat/gornichnye?message=maid-22-05"
+        },
+        {
+          "id": "maid-22-06",
+          "date": "2026-11-22",
+          "time": "18:10",
+          "author": "Дима",
+          "role": "staff",
+          "text": "Завтра выхожу с 8:00, подмените меня на Ленина?",
+          "link": "https://max.ru/chat/gornichnye?message=maid-22-06"
+        },
+        {
+          "id": "maid-21-01",
+          "date": "2026-11-21",
+          "time": "12:00",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Дима, пришли график на неделю.",
+          "link": "https://max.ru/chat/gornichnye?message=maid-21-01"
+        },
+        {
+          "id": "maid-21-02",
+          "date": "2026-11-21",
+          "time": "12:30",
+          "author": "Дима",
+          "role": "staff",
+          "text": "График: пн–ср ЛП 10, чт–пт Ленина 108, сб выходной.",
+          "link": "https://max.ru/chat/gornichnye?message=maid-21-02"
+        }
+      ]
+    },
+    {
+      "name": "Аренда",
+      "messages": [
+        {
+          "id": "rent-20-01",
+          "date": "2026-11-20",
+          "time": "11:00",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Павел, собственник ВЛКСМ просит акт. Отправь ему сегодня.",
+          "link": "https://max.ru/chat/arenda?message=rent-20-01"
+        },
+        {
+          "id": "rent-20-02",
+          "date": "2026-11-20",
+          "time": "11:20",
+          "author": "Павел",
+          "role": "staff",
+          "text": "Отправил акт на почту, собственник ответил что получил.",
+          "link": "https://max.ru/chat/arenda?message=rent-20-02"
+        },
+        {
+          "id": "rent-20-03",
+          "date": "2026-11-20",
+          "time": "15:00",
+          "author": "Руководитель",
+          "role": "manager",
+          "text": "Павел, какая задолженность по ЛП 20 на сегодня?",
+          "link": "https://max.ru/chat/arenda?message=rent-20-03"
+        },
+        {
+          "id": "rent-20-04",
+          "date": "2026-11-20",
+          "time": "16:40",
+          "author": "Павел",
+          "role": "staff",
+          "text": "Можно сдвинуть показ Ленина 108 на 18:00?",
+          "link": "https://max.ru/chat/arenda?message=rent-20-04"
+        }
+      ]
+    }
+  ]
+}
